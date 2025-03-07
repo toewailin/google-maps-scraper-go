@@ -1,3 +1,5 @@
+source repo link : git@github.com:gosom/google-maps-scraper.git
+
 ./google-maps-scraper -input motel-in-ygn.txt -results motel-in-ygn.csv -exit-on-inactivity 8m
 
 ./google-maps-scraper -input guest-house-in-ygn.txt -results guest-house-in-ygn.csv -exit-on-inactivity 8m
