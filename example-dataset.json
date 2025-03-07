@@ -1,0 +1,74 @@
+[
+    {
+      "place_id": "ChIJ7Y08z6f5zDERr_u0qj2Xy1E",
+      "name": "Shwe Dagon Pagoda",
+      "category": "Buddhist temple",
+      "address": "Ar Zar Ni St, Yangon",
+      "complete_address": "Ar Zar Ni St, Yangon, Myanmar (Burma)",
+      "latitude": 16.7981,
+      "longitude": 96.1479,
+      "phone": "+95 1 251 135",
+      "website": "http://www.shwedagonpagoda.com.mm/",
+      "open_hours": "Open 24 hours",
+      "review_count": 14500,
+      "review_rating": 4.8,
+      "link": "https://www.google.com/maps/place/Shwe+Dagon+Pagoda/@16.7981,96.1479,17z/data=!3m1!4b1!4m6!3m5!1s0x30c1949e2193297b:0x9335505663731110!8m2!3d16.7981!4d96.1479!16zL20vMDY3d2Q?entry=ttu",
+      "description": "Gilded pagoda complex with a large stupa, housing Buddhist relics and offering panoramic city views.",
+      "images": [
+        "https://example.com/shwedagon1.jpg",
+        "https://example.com/shwedagon2.jpg"
+      ],
+      "popular_times": "Mostly busy during evenings.",
+      "price_range": null,
+      "user_reviews": [],
+      "query": "Shwe Dagon Pagoda, Yangon"
+    },
+    {
+      "place_id": "ChIJa9b_n6f5zDERu0qj2Xy1E",
+      "name": "Aung San Market",
+      "category": "Market",
+      "address": "Bogyoke Aung San Rd, Yangon",
+      "complete_address": "Bogyoke Aung San Rd, Yangon, Myanmar (Burma)",
+      "latitude": 16.7797,
+      "longitude": 96.1558,
+      "phone": "+95 1 252 861",
+      "website": null,
+      "open_hours": "9:00 AM - 5:00 PM",
+      "review_count": 2800,
+      "review_rating": 4.2,
+      "link": "https://www.google.com/maps/place/Bogyoke+Aung+San+Market/@16.7797,96.1558,17z/data=!3m1!4b1!4m6!3m5!1s0x30c1949f5062a4d7:0x228399564f275997!8m2!3d16.7797!4d96.1558!16zL20vMDJ6c3o?entry=ttu",
+      "description": "Sprawling market with hundreds of stalls selling handicrafts, clothing, and jewelry.",
+      "images": [
+        "https://example.com/market1.jpg",
+        "https://example.com/market2.jpg"
+      ],
+      "popular_times": "Busy during weekends.",
+      "price_range": "$-$$",
+      "user_reviews": [],
+      "query": "Aung San Market, Yangon"
+    },
+    {
+      "place_id": "ChIJc79_n6f5zDERt0qj2Xy1E",
+      "name": "Yangon Zoo",
+      "category": "Zoo",
+      "address": "Kandawgyi Park, Yangon",
+      "complete_address": "Kandawgyi Park, Yangon, Myanmar (Burma)",
+      "latitude": 16.7923,
+      "longitude": 96.1444,
+      "phone": "+95 1 251 131",
+      "website": null,
+      "open_hours": "8:00 AM - 6:00 PM",
+      "review_count": 1500,
+      "review_rating": 3.9,
+      "link": "https://www.google.com/maps/place/Yangon+Zoo/@16.7923,96.1444,17z/data=!3m1!4b1!4m6!3m5!1s0x30c1949f0562a4d7:0x228399564f275997!8m2!3d16.7923!4d96.1444!16zL20vMDJ6c3o?entry=ttu",
+      "description": "Large zoo with a variety of animals, including elephants, tigers, and monkeys.",
+      "images": [
+        "https://example.com/zoo1.jpg",
+        "https://example.com/zoo2.jpg"
+      ],
+      "popular_times": "Busy during weekends and holidays.",
+      "price_range": "$",
+      "user_reviews": [],
+      "query": "Yangon Zoo"
+    }
+  ]
